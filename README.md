@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="200">
 
 - 🔭 I’m currently working on [ManagePro](https://managepro-dev.vercel.app/)
-- 🌱 I’m currently learning **Figma,Flutter**
+- 🌱 I’m currently learning **Figma,Flutter,Jenkins**
 - 👨‍💻 All of my projects can be preview at [here](https://my-portfolio23-ten.vercel.app/)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: geiwojina@gmail.com;
