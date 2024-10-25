@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ManagePro](https://managepro-dev.vercel.app/)
 - 🌱 I’m currently learning **Figma,Flutter,Jenkins**
-- 👨‍💻 My projects can be preview at [here](https://my-portfolio23-ten.vercel.app/#projects)
+- 👨‍💻 My projects can be preview at [here](https://ws-portfolio24.vercel.app/#project)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: hoow448@gmail.com;
 
