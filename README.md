@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="200">
 
-- 🔭 I’m currently working on [ManagePro](https://managepro-dev.vercel.app/)
+- 🔭 I’m currently working on Spring wheel app, inspire from [wheelofnames](https://wheelofnames.com/)
 - 🌱 I’m currently learning **Figma,Flutter,Jenkins**
 - 👨‍💻 My projects can be preview at [here](https://ws-portfolio24.vercel.app/#project)
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: hoow448@gmail.com;
+- 📫 Here where you can reach [me](mailto:hoow448@gmail.com)
 
 <p align="left">
 </p>
