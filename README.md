@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="200">
 
-- 🔭 I’m currently working on spinning wheel app, inspire from [wheelofnames](https://wheelofnames.com/)
+- 🔭 I’m currently working on [spinning wheel app](https://ws-wheel-game-simple.vercel.app/), inspire from [wheelofnames](https://wheelofnames.com/)
 - 🌱 I’m currently learning **Figma,Flutter,Jenkins**
 - 👨‍💻 My projects can be preview at [here](https://ws-portfolio24.vercel.app/#project)
 - 💬 Ask me about anything, I am happy to help;
