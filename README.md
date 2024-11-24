@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="200">
 
-- 🔭 I’m currently working my first [blog](https://ws-doc.vercel.app)
+- 🔭 I’m currently working my first [blog](https://www.whocodeblog.com)
 - 🌱 I’m currently learning **Figma,Flutter,Jenkins**
 - 👨‍💻 My projects can be preview at [here](https://ws-portfolio24.vercel.app/#project)
 - 💬 Ask me about anything, I am happy to help;
